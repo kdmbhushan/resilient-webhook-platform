@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ResilientWebhook.Core/ResilientWebhook.Core.csproj" />
+    <Project Path="src/ResilientWebhook.Dispatcher/ResilientWebhook.Dispatcher.csproj" />
+    <Project Path="src/ResilientWebhook.Publisher/ResilientWebhook.Publisher.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ResilientWebhook.Tests/ResilientWebhook.Tests.csproj" />
+  </Folder>
+</Solution>
